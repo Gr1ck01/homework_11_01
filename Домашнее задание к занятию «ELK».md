@@ -38,6 +38,9 @@
 
 *Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name*.
 
+![Снимок экрана от 2024-01-08 17-08-28](https://github.com/Gr1ck01/homework_11_01/assets/56309750/2a7b9c66-ac28-44b9-b87c-2518b5098216)
+
+
 ---
 
 ### Задание 2. Kibana
@@ -45,6 +48,9 @@
 Установите и запустите Kibana.
 
 *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
+
+![Снимок экрана от 2024-01-08 17-30-29](https://github.com/Gr1ck01/homework_11_01/assets/56309750/a5e5def3-425a-4f4d-9895-2692df28697e)
+
 
 ---
 
